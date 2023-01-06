@@ -8,3 +8,4 @@
   <parameter name="browsers" value="firefox"></parameter><classes><class name="parallel.crossbrowser"></class></classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+added
